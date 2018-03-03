@@ -1,0 +1,32 @@
+# Input an Float Number
+"""
+cgpa = input()
+print(cgpa)
+print(type(cgpa))
+
+"""
+
+# All Input is String in Python
+# We have to Type Cast to convert String into Float.
+
+# Solution 1
+
+cgpa = float(input())
+print(type(cgpa))
+
+print(cgpa)
+print(type(cgpa))
+
+
+# Solution 2
+"""
+
+cgpa = input()
+print(type(cgpa))
+
+cgpa = float(cgpa)
+print(cgpa)
+
+print(type(cgpa))
+
+"""
