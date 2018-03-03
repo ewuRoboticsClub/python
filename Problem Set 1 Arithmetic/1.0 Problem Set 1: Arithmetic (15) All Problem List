@@ -1,4 +1,5 @@
-In this Problem Set you will get idea of some basic Python Arithmetic Operator & some of Built-in in Math Function.
+In this Problem Set you will get idea of some basic Python Arithmetic Operator & some of Built-in and Math Functions.
+
 List of Arithmetic Operator:
 * Addition (+)
 * Subtraction (-)
@@ -9,12 +10,12 @@ List of Arithmetic Operator:
 * Floor Division (//)
 
 Lost of Some Python Built-in Function:
-* math.pow(x, y)
-* math.sqrt(x)
-
-Lost of Some Python Math Built-in Function:
 * abs(x)
 * pow(x,y)
+
+Lost of Some Python Math Built-in Function:
+* math.pow(x, y)
+* math.sqrt(x)
 
 Problem List:
 1. Summation of two number.
