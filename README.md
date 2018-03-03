@@ -4,7 +4,7 @@ Problem Set of Workshop on Python organized by East West University Robotics Clu
 
 The total Problem set is divided into six sub Problem set.
 
-Problem Set 0: Basic (6)
+[Problem Set 0: Basic (6)] (https://github.com/ewuRoboticsClub/python/tree/master/Problem%20Set%200%20Basic)
 
 Problem Set 1: Arithmetic (12)
 
