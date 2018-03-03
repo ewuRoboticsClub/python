@@ -1,6 +1,11 @@
+In this Problem Set you will get idea of some basic Python Data Type.
+Data Type Used:
+* str (String) * int (Integer) * float (Float) * bool (Boolean)
+
+Problem List: 
 1. Hello World.
-2. Input/ Output Your Name.
-3. I/O your Age.
-4. I/O your CGPA.
+2. IO Your Name.
+3. IO your Age.
+4. IO your CGPA.
 5. Are you a liar? (Boolean)
 6. Formatted I/O. (String + Numeric) [for Problem 2,3,4]
