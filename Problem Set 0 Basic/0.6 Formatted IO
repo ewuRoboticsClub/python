@@ -1,0 +1,14 @@
+#Input Name with Formatted Output
+print("What is Your Name: ")
+name = input()
+print("Hello ",name)
+
+#Input Age with Formatted Output
+print("What is Your Age: ")
+age = int(input())
+print("Your age is: ",age)
+
+#Input CGPA with Formatted Output
+print("What is Your CGPA: ")
+cgpa = float(input())
+print("Your CGPA is ",cgpa)
