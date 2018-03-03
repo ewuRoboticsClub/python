@@ -3,7 +3,7 @@ Data Type Used:
 * str (String) * int (Integer) * float (Float) * bool (Boolean)
 
 Problem List:
-1. [Hello World.](https://github.com/ewuRoboticsClub/python/blob/master/Problem%20Set%200%20Basic/0.1%20Hello%20World)
+1. Hello World.
 2. IO Your Name.
 3. IO your Age.
 4. IO your CGPA.
