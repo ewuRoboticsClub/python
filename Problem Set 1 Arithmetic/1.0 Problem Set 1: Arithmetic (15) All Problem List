@@ -9,13 +9,14 @@ List of Arithmetic Operator:
 * Exponent (**)
 * Floor Division (//)
 
-Lost of Some Python Built-in Function:
+List of Some Python Built-in Function:
 * abs(x)
 * pow(x,y)
 
-Lost of Some Python Math Built-in Function:
+List of Some Python Math Built-in Function:
 * math.pow(x, y)
 * math.sqrt(x)
+[All Math Funtion](https://docs.python.org/3.6/library/math.html)
 
 Problem List:
 1. Summation of two number.
