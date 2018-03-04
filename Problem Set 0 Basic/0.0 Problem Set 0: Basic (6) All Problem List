@@ -1,16 +1,17 @@
-In this Problem Set you will get idea of some basic Python Python Data Type & some of Built-in Functions.
+# In this Problem Set you will get idea of some basic Python Python Data Type & some of Built-in Functions.
 Data Type Used:
 * str (String)
 * int (Integer)
 * float (Float)
 * bool (Boolean)
 
-Lost of Some Python Built-in Function:
+List of Some Python Built-in Function:
 * print()
 * input()
 * type()
 * int()
 * float()
+[All Built-in Function](https://docs.python.org/3.6/library/functions.html)
 
 Problem List:
 1. Hello World.
