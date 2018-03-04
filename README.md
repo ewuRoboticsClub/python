@@ -6,7 +6,7 @@ The total Problem set is divided into six sub Problem set.
 
 [Problem Set 0: Basic (6)](https://github.com/ewuRoboticsClub/python/tree/master/Problem%20Set%200%20Basic)
 
-Problem Set 1: Arithmetic (12)
+[Problem Set 1: Arithmetic (12)](https://github.com/ewuRoboticsClub/python/tree/master/Problem%20Set%201%20Arithmetic)
 
 Problem Set 2: Conditional (10)
 
