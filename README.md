@@ -1,5 +1,4 @@
-# python
-
+# Python Problem Set
 Problem Set of Workshop on Python organized by East West University Robotics Club
 
 The total Problem set is divided into six sub Problem set.
