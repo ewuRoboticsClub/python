@@ -15,7 +15,7 @@ Problem Set 4: String (11)
 
 Problem Set 5: Object (8)
 
-Problem Set 6: Number Theory (15)
+[Problem Set 6: Number Theory (15)](https://github.com/ewuRoboticsClub/python/blob/master/Problem%20Set%207%20Number%20Theory/6.0%20PS%207:%20Number%20Theory(15)%20All%20Problem%20List.md "Problem Set 6: Number Theory (15)")
 
 
 Other Resource:
