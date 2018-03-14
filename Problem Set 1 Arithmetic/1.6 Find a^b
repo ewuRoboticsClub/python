@@ -12,6 +12,7 @@ exp = a ** b
 ## Return Modulo for Exponent with Built-in Function
 ## Syntax: pow(base,exponent, modulo)
 # exp = pow(a,b,2)
+#***exp = pow(6,8) % 5) or print(6**8 % 5)
 
 ## Using Math Library
 # import math
