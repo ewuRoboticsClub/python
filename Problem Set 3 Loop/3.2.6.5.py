@@ -11,9 +11,9 @@ def Triangle(n):
         print("\n")
 
 def main():
-    n=int(input("Enter A Number: "))
-    Triangle(n)
-    reverseTriangle(n)
+    n=int(input("Enter Number Of Rows: "))
+    Triangle(round(n/2)+1)
+    reverseTriangle(round(n/2)+1)
 
 
 if __name__ == '__main__':
